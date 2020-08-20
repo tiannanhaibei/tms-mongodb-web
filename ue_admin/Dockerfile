@@ -11,7 +11,7 @@ COPY . .
 ARG vue_app_login_key_username=username
 ARG vue_app_login_key_password=password
 ARG vue_app_login_key_pin=pin
-ARG vue_app_title='慧博-WWW'
+ARG vue_app_title='慧博云通-WWW'
 ARG vue_app_base_url
 ARG vue_app_back_auth_base
 ARG vue_app_back_auth_server
